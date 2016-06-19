@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plib-java-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/plib-java-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

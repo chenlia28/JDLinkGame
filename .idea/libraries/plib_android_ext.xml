@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plib-android-ext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/plib-android-ext.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

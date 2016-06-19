@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.2_1c6ff63dd209b743d2b087504a2052da1c82d9ba.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.2_ffc29a4d36d712e5e4c3c249b1109a1cdec529ff.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.0.2_1a9fec986bb174650ce3fdfe61f3aaff412554b8.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/libs/plib-java-common.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de5bad56e420ef5c230b976b0d4651120144f71d">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/plib-java-common_7045724e9e9ce9df181e36c6541458bc9e5eccce.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.2_0343ef08b60f4c178c0a8cecd424cf541ee77452.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_32504d382e0d79486782a37f91db11a2ea394698.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.0.2_778f9dbbc70b389b5fc7f77dbc48420622825f10.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.0.2_a54b1e14f735545c0d90d96bee47032eb391b111.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_20fbef3ebb181946f1f1e9d10ce3459660674f98.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.0.2_7bebf4d9a7c3e4dc0c3cbfc1470b49ca0f46e8e9.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.0.2_bd48b5f4869a355ce42e667dd7a80b4c1d417779.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.2_5b78cd1f779d12a624da84d16ff4b2b5044d8c51.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.0.2_611aba6a2f956db3495bac9348853280c03ed952.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.0.2_dfc82f6a4dfa67b8a5a704c47f1c3481c2d2072b.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_819f39efc977ae9d9727429e965c063a9279e212.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.0.2_f5510140b1577ded2babbfd0e75050058cdcebb8.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.2_c58754419364cda4e3c9f27d3e76be1102b9048d.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.0.2_4e5c137fa6bf633a42c270f764de15a51fd076c0.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.0.2_0fd341fe03529ed78b5df1c8961a0fdeccf131c8.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_13a4303aea04802558992585ecab9784db723251.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.0.2_7edf1ab02254c709158fe51e3d7d43989ab1eeec.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_ca9203c42148f00b306483c81623fdc2210be058.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.0.2_b01434d645648d91fd5c02fcf701d3c36db13063.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.0.2_e559de4b4ce33d95079d12211bd1f23111537723.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.2_5434f24c9227e5ee5716f64e6527ccea26e40958.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.0.2_fd88f4001560352a213bae43838f48fe1181dda5.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.0.2_1b010f1ba64901d2212e32d7edc852dbff80595e.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.0.2_9603b305feda830141042c3d7ecbfa1cf3e056be.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.2_f7e3f81ede4e4ba3375164d46908f2fb94ece9ac.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.2_bc5cfe13209b42c930f4ec1053c154eefd01c52b.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.0.2_d8cedb90ab77ca736b66008df6a1a04b79e3931c.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.0.2_2f247b959b8b8d44bbd6544bdda7d05c328dd525.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.0.2_d92caad4feeed2bbd9570a79c1c84647eb2ae21e.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_9f1e6dfbd21cfb5e741a40afcfa0d3bab5597435.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/libs/plib-android-ext.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9303b9842fd57fd8619fd707c62c17155861e0f">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/plib-android-ext_f7d854f70752066a064677a0cf34278b73bfef2c.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.0.2_4027a31b4b7df1ae72d2e00965202390e090d56b.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.0.2_4e9a2b9496426a79a6a6d39b9ebcebd3992d42c1.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_e3294bef70eb82c712c2db8b0c712113603cbd9a.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.2_a355a3efad5cf012df7754bfe94f5115926a2cb2.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.0.2_00a0001ed916b809f8112debb218df51c02839b1.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.2_9a2c5bc8fb8d26ae6c31fc6908ef2ff7b6ad67e8.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_380265ca2d47ae684ee164eafaa4ab0ad804ded5.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.0.2_f0ab8574ccd3fb4f913f2a4b759d1ea035a950f6.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.0.2_186107772676aefd5da1f06c990fb4869f8f1d47.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.2_c8cb6f31c75eec69b191361be28cdab32953101b.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.0.2_476bc218858eb00320b7559517cfa9e27ff74287.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.0.2_7d079dbf79bb94ae06f450dc60542b79d2b213d0.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.0.2_b48257ed8e83cd09c7c1d4dd26cae3ca2531568b.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_b9fa662cb3828e4003ddfe7f47463b4b66d1ab25.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_79a137aed9a82174c8baf4cc68375c283a700053.jar" />
+    </item>
+    <item
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/LinkGame/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.2_090008794e58e7ea31adeb6ce0eef9855ce179bc.jar" />
+    </item>
+
+</items>

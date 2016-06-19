@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">经典连连看</string>
+    <string name="game_pause">暂停</string>
+    <string name="game_refresh">重排</string>
+    <string name="game_tips">提示</string>
+</resources>
